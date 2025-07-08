@@ -1,0 +1,131 @@
+{
+  "luces": {
+    "preguntas": [
+      "¿Puedes encender las luces?",
+      "Apaga todas las luces.",
+      "Prende las luces del salón",
+      "Apaga la luz de la cocina",
+      "Enciende las luces",
+      "Apaga las luces",
+      "Ilumina la casa",
+      "Oscurece todo"
+    ],
+    "respuestas": {
+      "encender": "He encendido todas las luces del hogar. ✨",
+      "apagar": "Todas las luces han sido apagadas. 🌙",
+      "encender_salon": "Las luces del salón han sido encendidas. 💡",
+      "apagar_cocina": "La luz de la cocina ha sido apagada. ✅"
+    }
+  },
+  "clima": {
+    "preguntas": [
+      "¿Qué temperatura hay en casa?",
+      "Ajusta la temperatura a 21 grados.",
+      "¿Hace calor?",
+      "¿Está activado el aire acondicionado?",
+      "Cambia la temperatura",
+      "¿Cómo está el clima?",
+      "Prende el aire",
+      "Apaga el aire acondicionado"
+    ],
+    "respuestas": {
+      "temperatura_actual": "La temperatura actual del hogar es de 23°C. 🌡️",
+      "ajustar_21": "He ajustado la temperatura a 21°C. ❄️",
+      "hace_calor": "Sí, la temperatura supera los 26°C. 🔥",
+      "aire_acondicionado": "El aire acondicionado está funcionando correctamente. ❄️"
+    }
+  },
+  "seguridad": {
+    "preguntas": [
+      "¿Está activada la alarma?",
+      "¿Hay alguna puerta abierta?",
+      "Activa la seguridad",
+      "Desactiva la alarma",
+      "¿Todo está seguro?",
+      "Revisa la seguridad",
+      "Activa la alarma",
+      "Verifica las puertas"
+    ],
+    "respuestas": {
+      "alarma_activada": "Sí, la alarma está activada y funcionando. 🔒",
+      "puerta_abierta": "La puerta principal está cerrada y segura. 🚪",
+      "activar": "He activado el sistema de seguridad completo. 🛡️",
+      "desactivar": "Sistema de seguridad desactivado. 🔓"
+    }
+  },
+  "energia": {
+    "preguntas": [
+      "¿Cuánto consumo energético hay hoy?",
+      "¿Qué aparato consume más energía?",
+      "Muestra el consumo",
+      "¿Gasto mucha energía?",
+      "Optimiza el consumo",
+      "¿Cuánto he gastado?"
+    ],
+    "respuestas": {
+      "consumo_actual": "Hoy has consumido 12.4 kWh. Consumo eficiente. ⚡",
+      "aparato_mas_consumo": "El aire acondicionado es el que más energía consume. 🌡️",
+      "optimizar": "He optimizado el consumo energético automáticamente. 🔋"
+    }
+  },
+  "dispositivos": {
+    "preguntas": [
+      "¿Qué dispositivos están conectados?",
+      "¿Está la televisión encendida?",
+      "Muestra los dispositivos",
+      "¿Qué está funcionando?",
+      "Lista los aparatos",
+      "¿Todo está conectado?"
+    ],
+    "respuestas": {
+      "conectados": "Tienes 8 dispositivos conectados y funcionando. 📱",
+      "tv_estado": "La televisión está encendida en el canal favorito. 📺",
+      "lista": "Dispositivos activos: TV, aire acondicionado, luces inteligentes, sistema de seguridad. 🏠"
+    }
+  },
+  "modos": {
+    "preguntas": [
+      "Activa el modo noche",
+      "Desactiva el modo noche",
+      "Modo dormir",
+      "Modo descanso",
+      "Prepara la casa para dormir",
+      "Modo normal"
+    ],
+    "respuestas": {
+      "activar_noche": "Modo noche activado: luces tenues, seguridad elevada. 🌙",
+      "desactivar_noche": "Modo noche desactivado. Buenos días. ☀️"
+    }
+  },
+  "organizacion": {
+    "preguntas": [
+      "¿Qué tareas tengo pendientes hoy?",
+      "Recuérdame sacar la basura",
+      "Mis recordatorios",
+      "¿Qué tengo que hacer?",
+      "Agenda del día",
+      "Tareas pendientes"
+    ],
+    "respuestas": {
+      "pendientes": "Tienes 3 tareas: limpiar sala, sacar basura, regar plantas. 📝",
+      "recordar_basura": "He programado un recordatorio para sacar la basura a las 9:00 p.m. 🗑️"
+    }
+  },
+  "general": {
+    "preguntas": [
+      "Hola",
+      "¿Cómo estás?",
+      "Buenos días",
+      "Buenas tardes",
+      "Buenas noches",
+      "¿Qué puedes hacer?",
+      "Ayuda",
+      "Gracias"
+    ],
+    "respuestas": {
+      "saludo": "¡Hola! Soy NexusIA, tu asistente inteligente. ¿En qué puedo ayudarte hoy? 🤖",
+      "capacidades": "Puedo controlar luces, clima, seguridad, dispositivos y más. ¡Pregúntame cualquier cosa! 🏠",
+      "gracias": "¡De nada! Siempre estoy aquí para ayudarte. 😊"
+    }
+  }
+}
