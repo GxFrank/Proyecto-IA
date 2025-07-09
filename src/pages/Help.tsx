@@ -52,7 +52,7 @@ const Help = () => {
     {
       icon: MessageCircle,
       title: "Usa comandos naturales",
-      description: "Habla con NexusIA como si fuera una persona. Puedes decir 'Enciende las luces' o 'Apaga todo' y te entenderá."
+      description: "Habla con NexusIA como si fuera una persona. Puedes pedirle  que 'Encienda las luces' o 'Apague todo' y realizara tu petición."
     },
     {
       icon: Lightbulb,
